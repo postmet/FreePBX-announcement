@@ -23,33 +23,33 @@ msgstr ""
 "Project-Id-Version: 1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 18:12-0700\n"
-"PO-Revision-Date: 2015-04-22 20:24+0200\n"
-"Last-Translator: Yuriy <alliancesko@gmail.com>\n"
-"Language-Team: Russian <http://weblate.freepbx.org/projects/freepbx/"
-"announcement/ru_RU/>\n"
+"PO-Revision-Date: 2016-02-04 09:28+0000\n"
+"Last-Translator: Weblate Admin <admin@postmet.com>\n"
+"Language-Team: Russian "
+"<https://weblate.postmet.com/projects/freepbx/announcement/ru_RU/>\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.2-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.4\n"
 
 #: page.announcement.php:15
 msgid ": Add"
-msgstr ""
+msgstr ": Добавить"
 
 #: page.announcement.php:13
 msgid ": Edit"
-msgstr ""
+msgstr ": Редактировать"
 
 #: views/grid.php:16
 msgid "Actions"
-msgstr ""
+msgstr "Действие"
 
 #: views/grid.php:9
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #: views/rnav.php:3
 msgid "Add Announcements"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: views/form.php:160 views/form.php:187 views/form.php:214
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: views/form.php:32
 msgid "None"
@@ -160,7 +160,7 @@ msgstr "Повторить"
 
 #: Announcement.class.php:59
 msgid "Reset"
-msgstr ""
+msgstr "Сброс"
 
 #: views/form.php:180 views/grid.php:22
 msgid "Return to IVR"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: Announcement.class.php:64
 msgid "Submit"
-msgstr ""
+msgstr "Подтвердить"
 
 #: views/form.php:114
 msgid "The name of this announcement."
@@ -190,7 +190,7 @@ msgstr ""
 
 #: views/form.php:158 views/form.php:185 views/form.php:212
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: install.php:97
 msgid "adding recording_id field.."
