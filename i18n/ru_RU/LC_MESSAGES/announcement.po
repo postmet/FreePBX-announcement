@@ -44,7 +44,7 @@ msgstr ": Редактировать"
 
 #: views/grid.php:16
 msgid "Actions"
-msgstr "Действие"
+msgstr "Действия"
 
 #: views/grid.php:9
 msgid "Add"
@@ -73,7 +73,7 @@ msgstr "Проверка нуждаются ли записи в перемещ�
 
 #: Announcement.class.php:54
 msgid "Delete"
-msgstr "Удалить"
+msgstr "Удалить "
 
 #: views/form.php:102 views/grid.php:14
 msgid "Description"
