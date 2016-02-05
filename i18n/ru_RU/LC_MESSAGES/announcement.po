@@ -20,11 +20,11 @@
 # Использовать iconv announcement.utf8.po -f UTF-8 -t ISO-8859-5 -o announcement.po
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.5\n"
+"Project-Id-Version: 1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 18:12-0700\n"
-"PO-Revision-Date: 2016-01-21 11:11+0300\n"
-"Last-Translator: Senin Arthur <artsenin@postmet.ru>\n"
+"PO-Revision-Date: 2016-01-18 18:27+0300\n"
+"Last-Translator: Yuriy <alliancesko@gmail.com>\n"
 "Language-Team: Russian <team@postmet.com>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "Описание"
 
 #: views/grid.php:15
 msgid "Destination"
-msgstr ""
+msgstr "Назначение"
 
 #: views/form.php:234
 msgid "Destination after Playback"
