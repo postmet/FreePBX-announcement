@@ -23,7 +23,7 @@ msgstr ""
 "Project-Id-Version: 1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 18:12-0700\n"
-"PO-Revision-Date: 2016-02-15 13:59+0300\n"
+"PO-Revision-Date: 2016-02-16 11:28+0300\n"
 "Last-Translator: Senin Arthur <artsenin@postmet.ru>\n"
 "Language-Team: Russian <team@postmet.com>\n"
 "Language: ru_RU\n"
@@ -85,7 +85,7 @@ msgstr "Куда звонил"
 
 #: views/form.php:234
 msgid "Destination after Playback"
-msgstr "Направление после проигрывания "
+msgstr "Направление после проигрывания"
 
 #: views/rnav.php:8
 msgid "Destinations"
@@ -185,12 +185,12 @@ msgid ""
 "answered the channel, that 1 second delay may not be desired."
 msgstr ""
 "Установите в \"да\"  для предотвращения явного ответа в канале. Когда эта "
-"опция отмечена , сообщение будет проиграно , и если канал не получил "
-"ответа ,  сообщение будет доставлено как Early Media если канал поддерживает "
-"эту возможность. Когда опция не отмечена , канал получит ответ через 1 "
-"секунду. Когда используется приветствие из голосового меню или другого "
-"источника  , то канал уже получает ответ , так что задержка в 1 секунду "
-"может быть нежелательной"
+"опция отмечена , сообщение будет проиграно , и если канал не получил ответа "
+",  сообщение будет доставлено как Early Media если канал поддерживает эту "
+"возможность. Когда опция не отмечена , канал получит ответ через 1 секунду. "
+"Когда используется приветствие из голосового меню или другого источника  , "
+"то канал уже получает ответ , так что задержка в 1 секунду может быть "
+"нежелательной."
 
 #: Announcement.class.php:64
 msgid "Submit"
@@ -198,11 +198,11 @@ msgstr "Подтвердить"
 
 #: views/form.php:114
 msgid "The name of this announcement."
-msgstr "Имя приветствия"
+msgstr "Имя приветствия."
 
 #: views/form.php:246
 msgid "Where to send the caller after the announcement is played."
-msgstr "Дальнейший пункт обработки вызова после проигрывания приветствия"
+msgstr "Дальнейший пункт обработки вызова после проигрывания приветствия."
 
 #: views/form.php:158 views/form.php:185 views/form.php:212
 msgid "Yes"
