@@ -23,17 +23,17 @@ msgstr ""
 "Project-Id-Version: 1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-20 18:56-0500\n"
-"PO-Revision-Date: 2014-02-28 04:52+0200\n"
-"Last-Translator: Andrew <andrew.nagy@the159.com>\n"
-"Language-Team: Russian <http://example.com/projects/freepbx-211/announcement/"
-"ru/>\n"
+"PO-Revision-Date: 2016-07-11 12:38+0000\n"
+"Last-Translator: Weblate Admin <admin@postmet.com>\n"
+"Language-Team: Russian "
+"<https://weblate.postmet.com/projects/freepbx12/announcement/ru_RU/>\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 1.9-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.4\n"
 
 #: page.announcement.php:54 page.announcement.php:85
 msgid "Add Announcement"
@@ -91,7 +91,7 @@ msgstr "Назначение после воспроизведения"
 
 #: page.announcement.php:121
 msgid "Disable"
-msgstr "Выключено"
+msgstr "Выключить"
 
 #: page.announcement.php:138
 msgid "Don't Answer Channel"
@@ -150,7 +150,7 @@ msgid ""
 "Recordings\" MENU to the left"
 msgstr ""
 "Сообщение, которое будет воспроизведено.<br>Для создания сообщения "
-"воспользуйтесь разделом \"Запись сообщений\" в меню слева."
+"воспользуйтесь разделом \"Запись сообщений\" в меню слева"
 
 #: page.announcement.php:100
 msgid "None"
@@ -174,11 +174,11 @@ msgstr "Повторить"
 
 #: page.announcement.php:134
 msgid "Return to IVR"
-msgstr "Вернуться в 'Интерактивное меню'"
+msgstr "Возврат в Интерактивное меню"
 
 #: page.announcement.php:150
 msgid "Submit Changes"
-msgstr "Применить изменения"
+msgstr "Подтвердить изменения"
 
 #: page.announcement.php:87
 msgid "The name of this announcement"
@@ -190,7 +190,7 @@ msgstr "добавляется поле recording_id.."
 
 #: install.php:147
 msgid "already migrated"
-msgstr "уже перемещено"
+msgstr "уже перенесено"
 
 #: install.php:137
 msgid "dropping recording field.."
@@ -219,7 +219,7 @@ msgstr "нет поля записи?"
 
 #: install.php:104 install.php:143
 msgid "ok"
-msgstr "ok"
+msgstr "ок"
 
 #~ msgid "Inbound Call Control"
 #~ msgstr "Контроль входящих вызовов"
